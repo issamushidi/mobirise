@@ -2084,11 +2084,12 @@ body {
   text-align: right;
 }
 .cid-qBtuFpJCHZ {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background: #ffffff;
 }
 .cid-qBtuFpJCHZ .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-qBtuFpJCHZ .video-block {
