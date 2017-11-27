@@ -2539,7 +2539,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/how-beautiful-1-1000x1000.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2573,7 +2573,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/how-beautful...-installation-s.m.a.k.-2017-photo-dirk-pauwels-14-web-2000x1335.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
